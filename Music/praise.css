@@ -1,0 +1,49 @@
+body{
+	background-color: cornsilk;
+}
+p,li {
+	font-family: Arial;
+	font-size: 2rem;
+}
+p{
+	margin-top: 0px;
+	margin-bottom: 5px;
+	margin-left: 45px;
+}
+li {
+	margin-bottom: 9px;
+}
+.everything{
+	display: inline-block;
+	margin-right: 90px;
+	vertical-align: top;
+}
+.all-in-all{
+	
+}
+.everybody{
+	margin-left: 40px;
+}
+a {
+	background-color: purple;
+	margin-left: 30px;
+}
+.link-up {
+	background-color: purple;
+	border: none;
+	border-radius: 10px;
+	vertical-align: center;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 25px;
+	padding-right: 25px;
+	color: white;
+	font-size: 30px;
+	cursor: pointer;
+	
+}
+.btn{
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+}
